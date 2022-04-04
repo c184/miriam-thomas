@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/miriam-thomas/static/css/main.c25e3a2b.css",
-    "main.js": "/miriam-thomas/static/js/main.28d6aa0f.js",
+    "main.js": "/miriam-thomas/static/js/main.447362de.js",
     "static/media/brand-icons.svg": "/miriam-thomas/static/media/brand-icons.6729d29753e000c17489.svg",
     "static/media/icons.svg": "/miriam-thomas/static/media/icons.62d9dae4e0040e81c980.svg",
     "static/media/fotoIniziale.jpg": "/miriam-thomas/static/media/fotoIniziale.021dfbd1585fd8c2e3fd.jpg",
@@ -21,10 +21,10 @@
     "static/media/outline-icons.woff2": "/miriam-thomas/static/media/outline-icons.687a4990ea22bb1a49d4.woff2",
     "index.html": "/miriam-thomas/index.html",
     "main.c25e3a2b.css.map": "/miriam-thomas/static/css/main.c25e3a2b.css.map",
-    "main.28d6aa0f.js.map": "/miriam-thomas/static/js/main.28d6aa0f.js.map"
+    "main.447362de.js.map": "/miriam-thomas/static/js/main.447362de.js.map"
   },
   "entrypoints": [
     "static/css/main.c25e3a2b.css",
-    "static/js/main.28d6aa0f.js"
+    "static/js/main.447362de.js"
   ]
 }
