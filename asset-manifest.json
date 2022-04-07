@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/miriam-thomas/static/css/main.2e0f4203.css",
-    "main.js": "/miriam-thomas/static/js/main.f39948a7.js",
+    "main.js": "/miriam-thomas/static/js/main.f6ac63ce.js",
     "static/media/margherita.png": "/miriam-thomas/static/media/margherita.87b60bb91a85158bd7ac.png",
     "static/media/fotoIniziale.png": "/miriam-thomas/static/media/fotoIniziale.b3ffd0a84bc14e6efcd1.png",
     "static/media/fotoFinale.png": "/miriam-thomas/static/media/fotoFinale.238e063299d4b767991a.png",
@@ -31,10 +31,10 @@
     "static/media/top_wave_coral.png": "/miriam-thomas/static/media/top_wave_coral.3c7d974d574b26dfed9e.png",
     "index.html": "/miriam-thomas/index.html",
     "main.2e0f4203.css.map": "/miriam-thomas/static/css/main.2e0f4203.css.map",
-    "main.f39948a7.js.map": "/miriam-thomas/static/js/main.f39948a7.js.map"
+    "main.f6ac63ce.js.map": "/miriam-thomas/static/js/main.f6ac63ce.js.map"
   },
   "entrypoints": [
     "static/css/main.2e0f4203.css",
-    "static/js/main.f39948a7.js"
+    "static/js/main.f6ac63ce.js"
   ]
 }
