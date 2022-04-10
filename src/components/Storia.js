@@ -1,6 +1,8 @@
-import { Header, Container, Image, Item } from 'semantic-ui-react';
-
-const paragraph = <Image src='https://react.semantic-ui.com/images/wireframe/short-paragraph.png' />
+import { Container, Image, Item } from 'semantic-ui-react';
+import love from '../images/love.png';
+import couple from '../images/couple.png';
+import kiss from '../images/kiss.png';
+import margherita from '../images/foto/margherita.png';
 
 function Storia() {
     return(
@@ -11,7 +13,7 @@ function Storia() {
 
         <Item.Group divided>
             <Item className='paddingLati'>
-                <Image style={{height: '80px'}} src='immagini/love.png' />
+                <Image style={{height: '80px'}} src={love} />
 
                 <Item.Content>
                 <div className='titolo-testo'>Il primo incontro</div>
@@ -22,7 +24,7 @@ function Storia() {
             </Item>
 
             <Item className='paddingLati smallPaddingOnTop'>
-                <Image style={{height: '80px'}} src='immagini/couple.png' />
+                <Image style={{height: '80px'}} src={couple} />
 
                 <Item.Content>
                 <div className='titolo-testo'>Il primo bacio</div>
@@ -33,7 +35,7 @@ function Storia() {
             </Item>
 
             <Item className='paddingLati smallPaddingOnTop'>
-                <Image style={{height: '80px'}} src='immagini/kiss.png' />
+                <Image style={{height: '80px'}} src={kiss} />
 
                 <Item.Content>
                 <div className='titolo-testo'>Fidanzamento</div>
@@ -43,6 +45,8 @@ function Storia() {
                 </Item.Content>
             </Item>
         </Item.Group>
+
+        <Image rounded centered style={{width: '70%', paddingTop: '20px'}} src={margherita} />
     </Container>
     )
 }

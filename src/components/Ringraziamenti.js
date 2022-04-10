@@ -1,9 +1,11 @@
-import {Container, Header} from 'semantic-ui-react';
+import { Image } from 'semantic-ui-react';
+import fotoFinale from '../images/fotoFinale.png'
 
 function Ringraziamenti() {
     return(
         <div className='paddingOnTop' style={{ paddingBottom: '20px' }}>
-            <div className='titolo-sezione'>Grazie</div>
+            <div className='titolo-sezione' style={{ marginBottom: '20px' }}>Grazie</div>
+            <Image size='medium' circular centered src={fotoFinale}></Image>
         </div>
     )
 }

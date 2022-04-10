@@ -2,7 +2,6 @@ import { Item, Image } from 'semantic-ui-react';
 import greenWaveTop from '../images/top_wave.png';
 import greenWaveBottom from '../images/bottom_wave.png';
 import church from '../images/church.png';
-import champagne from '../images/champagne.png';
 import cupcakes from '../images/cupcakes.png';
 
 function Luoghi() {
@@ -27,20 +26,6 @@ function Luoghi() {
                 </div>
                 <div className='link-posizione'>
                   <a target='_blank' href='https://goo.gl/maps/i1pFz2wHoCCbAAsR7'>Via G. Da Cavino, 23, 35010 Cavino PD</a>
-                </div>
-                </Item.Content>
-            </Item>
-
-            <Item style={{ textAlign: 'center' }} className='paddingLati paddingOnTop'>
-                <Image circular style={{height: '80px', backgroundColor: 'white'}} src={champagne} />
-
-                <Item.Content>
-                <div className='titolo-testo-white'>Ricevimento | 13:00</div>
-                <div className='descrizione-white'>
-                  Ristorante "Le Macine" <br />
-                </div>
-                <div className='link-posizione'>
-                  <a target='_blank' href='https://goo.gl/maps/saMxSSN3sP43NHBS8'>Via Abaco, 22, 35010 Gazzo PD</a>
                 </div>
                 </Item.Content>
             </Item>

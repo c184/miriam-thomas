@@ -4,8 +4,7 @@ body {
 }
 
 .hero-image {
-  background-image: url("/public/immagini/fotoIniziale.jpg");
-  background-color: #cccccc;
+  background-image: url("/public/immagini/fotoIniziale.png");
   height: 500px;
   background-position: center;
   background-repeat: no-repeat;
